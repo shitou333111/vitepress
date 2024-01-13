@@ -60,5 +60,6 @@ content:
   - name: home
     label: Homepages
     type: rich-text
-    path: 'docs/public/pure.html'
+    path: 'docs/index.md'
     editor: raw
+    format: markdown
