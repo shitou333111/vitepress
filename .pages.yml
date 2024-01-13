@@ -59,6 +59,6 @@ content:
     path: 'about.html'
   - name: home
     label: Homepages
-    type: single
+    type: rich-text
     path: 'docs/public/pure.html'
     editor: raw
