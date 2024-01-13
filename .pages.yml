@@ -59,7 +59,5 @@ content:
     path: 'about.html'
   - name: home
     label: Homepages
-    # type: rich-text
     path: 'docs/index.md'
     editor: raw
-    format: markdown
