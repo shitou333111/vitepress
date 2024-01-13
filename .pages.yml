@@ -60,5 +60,5 @@ content:
   - name: home
     label: Homepages
     type: single
-    path: 'index.html'
+    path: 'docs/public/pure.html'
     editor: raw
