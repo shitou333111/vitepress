@@ -1,5 +1,5 @@
-url: 'https://github.com/shitou333111/vitepress/tree/main/docs'
-media: public
+url: 'https://github.com/shitou333111/vitepress/'
+media: docs/public
 media_prefix: '/'
 
 content:
