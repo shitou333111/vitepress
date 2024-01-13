@@ -58,7 +58,7 @@ content:
     type: single
     path: 'about.html'
   - name: home
-    label: Homepage
+    label: Homepages
     type: single
     path: 'index.html'
     editor: raw
